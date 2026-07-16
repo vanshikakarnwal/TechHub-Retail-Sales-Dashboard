@@ -48,9 +48,9 @@ TechHub Retail is a UK-based online electronics retailer preparing for 2025 stra
 
 - **Total revenue of £31.7M** across 18 months with a healthy **45.5% profit margin**
 - **Nova Electronics** is the top supplier by a significant margin (£8.4M vs £6.4M for TechCorp)
-- **Gold-tier customers** have the highest lifetime value and longest tenure — retention investment is justified
+- **Gold-tier customers** have the highest lifetime value and longest tenure - retention investment is justified
 - **Organic and Paid channels** bring the highest customer acquisition volumes (2,120 and 1,911 respectively)
-- **Bronze loyalty tier** accounts for the majority of orders — a large segment with upsell potential
+- **Bronze loyalty tier** accounts for the majority of orders - a large segment with upsell potential
 
 ---
 
