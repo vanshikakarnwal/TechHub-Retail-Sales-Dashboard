@@ -30,17 +30,17 @@ TechHub Retail is a UK-based online electronics retailer preparing for 2025 stra
 
 ## Key Features
 
-**6 KPI Cards** — Total Revenue, Average Order Value, Total Customers, Customer Acquisition Rate, Average Profit Margin (45.5%), Top Customer Segment
+**6 KPI Cards** - Total Revenue, Average Order Value, Total Customers, Customer Acquisition Rate, Average Profit Margin (45.5%), Top Customer Segment
 
-**Sales & Profitability Trends** — Dual-axis line chart showing Revenue vs Profit Amount over 18 months
+**Sales & Profitability Trends** - Dual-axis line chart showing Revenue vs Profit Amount over 18 months
 
-**Geographic Performance** — UK regional map showing revenue per customer with city-level drill-down
+**Geographic Performance** - UK regional map showing revenue per customer with city-level drill-down
 
-**Supplier Performance** — Horizontal bar chart highlighting Nova Electronics as top revenue supplier (£8.4M), with per-supplier product count detail
+**Supplier Performance** - Horizontal bar chart highlighting Nova Electronics as top revenue supplier (£8.4M), with per-supplier product count detail
 
-**Customer Segmentation** — Scatter plot of Customer Lifetime Value vs Tenure, segmented by loyalty tier (Gold/Silver/Bronze)
+**Customer Segmentation** - Scatter plot of Customer Lifetime Value vs Tenure, segmented by loyalty tier (Gold/Silver/Bronze)
 
-**Interactive Filters** — Date range slider, product category selector, affecting all views simultaneously
+**Interactive Filters** - Date range slider, product category selector, affecting all views simultaneously
 
 ---
 
@@ -66,8 +66,8 @@ TechHub Retail is a UK-based online electronics retailer preparing for 2025 stra
 
 ## Calculated Fields Created in Tableau
 
-- `Profit Amount` = Revenue − (Cost Price × Quantity)
-- `Profit Margin %` = SUM(Profit Amount) / SUM(Revenue) — weighted average to avoid ratio distortion
+- `Profit Amount` = Revenue - (Cost Price × Quantity)
+- `Profit Margin %` = SUM(Profit Amount) / SUM(Revenue) - weighted average to avoid ratio distortion
 - `Customer Tenure Days` = DATEDIFF('day', Signup Date, TODAY())
 - `Customer Lifetime Value` = SUM(Revenue) per customer
 - `Product Age Days` = DATEDIFF('day', Launch Date, Order Date)
